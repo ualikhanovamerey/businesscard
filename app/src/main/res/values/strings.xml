@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Ualikhanova Merey</string>
+    <string name="business">Junior Android Developer</string>
+    <string name="phone_number">87471224576</string>
+    <string name="email_text">mualikhanova@mail.ru</string>
+    <string name="share_text">merey@android.com</string>
+</resources>
